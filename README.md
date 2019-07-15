@@ -31,7 +31,7 @@ $ sudo apt-get install libfuse-dev
 
 Clone this repository
 ```
-$ git clone https://github.com/aditisrinivas97/MyFS MyFS
+$ git clone https://github.com/Avinashchavan1443/Filesystem MyFS
 ```
 
 Cd into the folder 'MyFS' and mount the filesystem using the makefile
